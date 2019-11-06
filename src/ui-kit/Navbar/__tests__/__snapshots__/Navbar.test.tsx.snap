@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar component should render correctly 1`] = `
+<styled.div>
+  <styled.a
+    href="/"
+  >
+    <Icon
+      alt="Icon"
+      height={42}
+      src="/icons/logo.png"
+      width={30}
+    />
+  </styled.a>
+  <styled.div>
+    <NavbarItem
+      isActive={true}
+      item={
+        Object {
+          "icon": "test",
+          "link": "/test",
+        }
+      }
+      key="test"
+    />
+  </styled.div>
+</styled.div>
+`;

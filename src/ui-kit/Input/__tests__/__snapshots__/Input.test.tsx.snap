@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input component should render correctly 1`] = `
+<styled.div>
+  <styled.div>
+    <Icon
+      alt="Icon"
+      height={20}
+      src="/icons/search.png"
+      width={20}
+    />
+  </styled.div>
+  <styled.input
+    onChange={[MockFunction]}
+    placeholder="Placeholder"
+    type="text"
+    value=""
+  />
+</styled.div>
+`;

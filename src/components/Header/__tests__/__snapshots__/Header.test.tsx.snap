@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header with Enzyme and Jest should render correctly 1`] = `
+<styled.div>
+  <Container>
+    <styled.div>
+      <Input
+        onChange={[Function]}
+        type="text"
+        value=""
+      />
+      <Avatar
+        height={60}
+        src="/icons/avatar-header.png"
+        width={60}
+      />
+    </styled.div>
+  </Container>
+</styled.div>
+`;

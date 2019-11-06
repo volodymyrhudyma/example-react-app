@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List with Enzyme and Jest should render correctly 1`] = `
+<styled.div>
+  <styled.div>
+    <Title
+      type="h5"
+    />
+    <styled.div>
+      <Line
+        height="4px"
+        width="50px"
+      />
+    </styled.div>
+  </styled.div>
+  <styled.div
+    flex={false}
+  >
+    <Connect(withI18nextTranslation(ListItem))
+      article={
+        Object {
+          "author": "",
+          "avatar": "",
+          "desc": "",
+          "email": "",
+          "id": 0,
+          "isRead": false,
+          "jobTitle": "",
+          "tags": Array [],
+          "title": "",
+        }
+      }
+      key="0"
+    />
+    <Connect(withI18nextTranslation(ListItem))
+      article={
+        Object {
+          "author": "",
+          "avatar": "",
+          "desc": "",
+          "email": "",
+          "id": 0,
+          "isRead": false,
+          "jobTitle": "",
+          "tags": Array [],
+          "title": "",
+        }
+      }
+      key="0"
+    />
+  </styled.div>
+</styled.div>
+`;

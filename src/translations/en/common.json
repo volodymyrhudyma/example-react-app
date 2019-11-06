@@ -1,0 +1,23 @@
+{
+  "articles": {
+    "title": "Articles",
+    "period": "Today",
+    "readOne": "Mark as Read",
+    "readAll": "Mark All as Read",
+    "total": "Number of articles",
+    "unread": "Unread articles",
+    "totalPeriod": "This day",
+    "unreadPeriod": "This day"
+  },
+  "layout": {
+    "cards": "Cards",
+    "table": "Table"
+  },
+  "resource": {
+    "empty": "No items found",
+    "error": "Something went wrong"
+  },
+  "search": {
+    "placeholder": "Find a user, team, meeting…"
+  }
+}

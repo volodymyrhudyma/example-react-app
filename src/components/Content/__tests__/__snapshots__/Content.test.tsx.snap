@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Content with Enzyme and Jest should render correctly 1`] = `
+<styled.div>
+  <Container>
+    <styled.div>
+      <styled.div>
+        <Title
+          type="h1"
+        />
+        <Tabs
+          activeTabIndex={1}
+          items={
+            Array [
+              Object {
+                "icon": Object {
+                  "active": "/icons/card-active.svg",
+                  "default": "/icons/card.svg",
+                },
+                "label": undefined,
+                "onClick": [Function],
+              },
+              Object {
+                "icon": Object {
+                  "active": "/icons/table-active.svg",
+                  "default": "/icons/table.svg",
+                },
+                "label": undefined,
+                "onClick": [Function],
+              },
+            ]
+          }
+        />
+      </styled.div>
+      <Connect(withI18nextTranslation(Stats)) />
+      <Connect(withI18nextTranslation(List)) />
+    </styled.div>
+  </Container>
+</styled.div>
+`;

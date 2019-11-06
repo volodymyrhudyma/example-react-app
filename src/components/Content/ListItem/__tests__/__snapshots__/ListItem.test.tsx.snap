@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListItem with Enzyme and Jest should render correctly 1`] = `
+<styled.div
+  isCard={false}
+>
+  <Card
+    height="auto"
+    padding="1.5rem"
+    width="auto"
+  >
+    <styled.div
+      isCard={false}
+    >
+      <styled.div
+        isCard={false}
+      >
+        <styled.div>
+          <Avatar
+            height={60}
+            src="/icons/avatar-article.png"
+            width={60}
+          />
+        </styled.div>
+        <styled.div
+          isCard={false}
+        >
+          <styled.div>
+            <Title
+              type="h4"
+            >
+              <styled.div />
+            </Title>
+          </styled.div>
+          <styled.div />
+          <styled.div>
+            r
+          </styled.div>
+        </styled.div>
+      </styled.div>
+      <styled.div
+        isCard={false}
+      >
+        <styled.div
+          isCard={false}
+        >
+          <Title
+            type="h4"
+          />
+        </styled.div>
+        <styled.div />
+      </styled.div>
+      <styled.div>
+        <styled.div
+          isCard={false}
+        />
+        <styled.div
+          isCard={false}
+        >
+          <styled.div
+            onClick={[Function]}
+          >
+            <Icon
+              alt="Icon"
+              height={24}
+              src="/icons/delete.svg"
+              width={24}
+            />
+          </styled.div>
+          <styled.div>
+            <Button
+              onClick={[Function]}
+            />
+          </styled.div>
+        </styled.div>
+      </styled.div>
+      <styled.div>
+        <Dot />
+      </styled.div>
+    </styled.div>
+  </Card>
+</styled.div>
+`;

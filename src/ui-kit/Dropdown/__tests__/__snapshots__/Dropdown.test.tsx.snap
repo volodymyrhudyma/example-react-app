@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dropdown component should render correctly 1`] = `
+<styled.div>
+  <OutsideClickHandler
+    disabled={false}
+    display="block"
+    onOutsideClick={[MockFunction]}
+    useCapture={true}
+  >
+    <styled.div
+      onClick={[MockFunction]}
+    >
+      Mark All as Read
+    </styled.div>
+  </OutsideClickHandler>
+</styled.div>
+`;

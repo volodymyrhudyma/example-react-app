@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Title component should render correctly 1`] = `
+<Styled(Component)
+  component="h1"
+>
+  Card
+</Styled(Component)>
+`;

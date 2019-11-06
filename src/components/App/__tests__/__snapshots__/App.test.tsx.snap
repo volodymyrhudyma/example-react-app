@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App with Enzyme and Jest should render correctly 1`] = `
+<styled.div>
+  <GlobalStyleComponent />
+  <Navbar
+    items={
+      Array [
+        Object {
+          "icon": "/icons/dashboard.svg",
+          "link": "#",
+        },
+        Object {
+          "icon": "/icons/sessions.svg",
+          "link": "#",
+        },
+        Object {
+          "icon": "/icons/meetings.svg",
+          "link": "#",
+        },
+        Object {
+          "icon": "/icons/files.svg",
+          "link": "#",
+        },
+        Object {
+          "icon": "/icons/conversations.svg",
+          "link": "#",
+        },
+        Object {
+          "icon": "/icons/settings.svg",
+          "link": "#",
+        },
+      ]
+    }
+  />
+  <styled.div>
+    <withI18nextTranslation(Header) />
+    <Connect(withI18nextTranslation(Content)) />
+  </styled.div>
+</styled.div>
+`;

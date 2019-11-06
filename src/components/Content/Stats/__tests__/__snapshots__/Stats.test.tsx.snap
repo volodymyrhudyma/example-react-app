@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Stats with Enzyme and Jest should render correctly 1`] = `
+<styled.div>
+  <styled.div>
+    <withI18nextTranslation(StatsCard)
+      articles={Array []}
+      count={0}
+      readArticle={[MockFunction]}
+      type="overall"
+    />
+  </styled.div>
+  <withI18nextTranslation(StatsCard)
+    articles={Array []}
+    count={0}
+    readArticle={[MockFunction]}
+    type="unread"
+  />
+</styled.div>
+`;

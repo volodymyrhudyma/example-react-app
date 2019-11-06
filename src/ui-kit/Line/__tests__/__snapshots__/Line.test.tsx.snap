@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Line component should render correctly 1`] = `
+<styled.div
+  height="4px"
+  width="100%"
+/>
+`;

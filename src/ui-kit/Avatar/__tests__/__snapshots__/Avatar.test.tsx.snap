@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Avatar component should render correctly 1`] = `
+<styled.div>
+  <styled.img
+    height={60}
+    src="avatar"
+    width={60}
+  />
+</styled.div>
+`;
