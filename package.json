@@ -12,7 +12,7 @@
     "@types/react-outside-click-handler": "^1.2.0",
     "@types/react-redux": "^7.0.9",
     "@types/redux-logger": "^3.0.7",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-core": "^6.26.3",
     "i18next": "^15.1.2",
     "react": "^16.8.6",
